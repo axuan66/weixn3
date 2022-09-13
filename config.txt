@@ -23,7 +23,7 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
-"note_en": "If you're afraid to fail then you're probably going to fail---Kobe Bryant"
+"note_en": "If you're afraid to fail then you're probably going to fail---Kobe Bryant",
 "zhou1": "今天上午只有一节体育3-4节，注意热身🏀！下午5-6节是形势与政策 博西104后边什么玩意我看不懂，随便上上吧(❁´◡`❁)",
 "zhou2": "额~，今天上午1-2是马克思主义基本原理 博东305 安波的课 3-4 是宏观经济学在 新逸夫601 下午就一节，5-6 博东408 行政管理学",
 "zhou3": "我靠今天课真多，注意喝水每天2L，上午1-2 大学英语 博东301 3-4 财务管理 齐志101，记得带书！下午5-6 宏观经济学 新逸夫508，7-8 马克思主义基本原理 博东104",
